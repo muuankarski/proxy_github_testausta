@@ -20,3 +20,6 @@ download.file("http://www.lisdatacenter.org/wp-content/uploads/data-key-inequali
 d <- readxl::read_excel("./data-key-inequality-workbook.xlsx")
 
 # tehdääs pieni muutos
+
+svdxfvsfd
+zdf xdv 
