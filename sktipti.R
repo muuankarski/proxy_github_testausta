@@ -21,5 +21,8 @@ d <- readxl::read_excel("./data-key-inequality-workbook.xlsx")
 
 # tehdääs pieni muutos
 
-svdxfvsfd
-zdf xdv 
+<sdcvasdfv
+>
+
+# svdxfvsfd
+# zdf xdv 
